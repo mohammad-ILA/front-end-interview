@@ -1,0 +1,1 @@
+# This section is related to <strong>Next.js</strong> questions

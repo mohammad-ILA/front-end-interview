@@ -1,1 +1,0 @@
-# This section is related to JS questions

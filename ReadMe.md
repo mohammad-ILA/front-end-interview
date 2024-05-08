@@ -15,8 +15,9 @@ There are several subjects:
 5- React
 6- Next.js
 7- Vue.js
-8- Angular.js
-9- Git
-10- Docker
-11- General programming questions
-12- Test
+8- Nuxt
+9- Angular.js
+10- Git
+11- Docker
+12- General programming questions
+13- Test
